@@ -2,7 +2,7 @@
 //   ****   PLEASE NOTE: This is a READ-ONLY representation of the actual script. For editing please press the "Develop Script" button.   ****
 //   *****************************************************************************************************************************************
 
-//GIT pull and commit sample 
+//GIT pull and commit sample1 
 Action()
 {
 	lr_start_transaction("T01_AOS_LaunchHomePage");
